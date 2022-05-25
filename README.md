@@ -1,2 +1,2 @@
 # HGOTG
-Hedera GOTG
+Hedera GOTGH
